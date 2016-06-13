@@ -1,0 +1,11 @@
+body,h1,h2,h3,h4,h5,h6,dl,dt,dd,form,ul,ol,li,p,i,span{
+  border:0;
+  margin:0;
+  padding:0;
+  list-style:none;
+  }
+*{
+  font-family:"微软雅黑","宋体","sans-serif";font-size:16px;
+}
+a{text-decoration:none;}
+img{border:0;font-size: 0;}
